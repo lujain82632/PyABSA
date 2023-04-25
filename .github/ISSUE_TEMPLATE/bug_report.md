@@ -1,11 +1,12 @@
 ---
 name: Bug report or any code problem
-about: Create a report to help us improve
+about: For any code problems, please do NOT open a blank issue. Otherwise, it may not be processed
 title: ''
 labels: 
 assignees: ''
 
 ---
+
 ## Unless you provide the REQUIRED information, your problem may not be addressed.
 
 ### PyABSA Version (Required)
