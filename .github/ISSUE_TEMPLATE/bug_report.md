@@ -1,12 +1,12 @@
 ---
-name: Code doesn't work or Bug report
+name: Bug report or any code problem
 about: Create a report to help us improve
 title: ''
 labels: 
 assignees: ''
 
 ---
-## I am very busy in my own work, so if you cannot provide REQUIRED information, I may have no time to solve your problem. 
+## Unless you provide the REQUIRED information, your problem may not be addressed.
 
 ### PyABSA Version (Required)
 See the console output for PyABSA, Torch, Transformers Version
